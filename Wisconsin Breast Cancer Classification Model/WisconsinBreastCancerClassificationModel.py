@@ -34,7 +34,7 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import precision_recall_fscore_support
 
-# load wine data as an object
+# load breat cancer data as an object
 data = load_breast_cancer()
 
 # print feature names
